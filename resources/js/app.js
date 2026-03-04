@@ -1,13 +1,13 @@
 const PDFS = [
     {
-        file: "pdf/P1__Circle_Demostration.pdf",
+        file: "resources/data/P1__Circle_Demostration.pdf",
         title: "Circle Demostration",
         description: "Formal mathematical derivation of the area formula using integral calculus and geometric reasoning."
     },
     {
-        file: "pdf/P2__TicTacToe.pdf",
+        file: "resources/data/P2__TicTacToe.pdf",
         title: "Tic Tac Toe",
-        description: "Implementation of the Minimax algorithm for decision-based agents in zero-sum games."
+        description: "Implementation of the Minimax algorithm for decision-based agents."
     }
 ];
 
