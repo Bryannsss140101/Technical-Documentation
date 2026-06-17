@@ -8,6 +8,11 @@ const PDFS = [
         file: "resources/data/P2__TicTacToe.pdf",
         title: "Tic Tac Toe",
         description: "Implementation of the Minimax algorithm for decision-based agents."
+    },
+    {
+        file: "resources/data/P3__DDA.pdf",
+        title: "Digital Differential Analyzer",
+        description: "Analysis and Implementation of the Algorithm DDA."
     }
 ];
 
